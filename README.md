@@ -8,6 +8,6 @@
 
 📫 How to reach me:
 
---> Linkedin: https://www.linkedin.com/in/emil-szturo-49b637194/
+--> Linkedin: https://www.linkedin.com/in/emilszturo/
 
 --> Mail: emilszturo123@gmail.com
