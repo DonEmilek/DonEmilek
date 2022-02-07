@@ -9,7 +9,7 @@ Other: React.js, Node.js, Express.js, jQuery, REST, Git, MySQL, HTML, CSS,
 
 -------------------
 
-📫 How to reach me:
+### 📫 How to reach me:
 --> My website portfolio: http://emilekresume.cba.pl
 
 --> Linkedin: https://www.linkedin.com/in/emilszturo/
