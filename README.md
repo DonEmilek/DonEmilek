@@ -2,8 +2,7 @@
 
 👀 I’m interested in programming. I do like learn, and make useful applications. 
 
-My main technologies: JavaScript, Java
-Other: React.js, Node.js, Express.js, jQuery, REST, Git, MySQL, HTML, CSS, 
+My main technologies: JavaScript, React.js, Node.js
 
 🌱 I’m currently learning React.js. Also I have a wide knowledge about different programming languages.
 
