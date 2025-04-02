@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @DonEmilek
 
-## Admin, Creator: https://pracowniamycake.pl/
 
 👀 I’m interested in programming. I do like learn, and make useful applications. 
 
